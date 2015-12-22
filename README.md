@@ -5,7 +5,7 @@
   
   > http://www.marinamele.com/install-and-configure-atom-editor-for-python
   
-## require packages
+### required packages
   > $apm install linter
   
   > $pip install flake8  
@@ -24,4 +24,10 @@
   
   > $apm install vim-mode
   
+## markdown preview package
+  > $apm install markdown-preview
   
+  > key : ctrl + alt + m
+  
+  
+
