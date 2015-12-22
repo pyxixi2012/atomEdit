@@ -20,5 +20,8 @@
   
   > $apm install minimap
   
+  > $apm install symbols-tree-view
+  
+  > $apm install vim-mode
   
   
